@@ -1,6 +1,0 @@
-add internet
-<<<<<<< HEAD
-game2
-=======
-game1
->>>>>>> game1
